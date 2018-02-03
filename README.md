@@ -13,6 +13,7 @@ TDD training app created for African Violet lovers, it allows to:
 Install Bundler and relevant gems with the following commands:
 
 `gem install bundler`
+
 `bundle`
 
 `rspec --init`
